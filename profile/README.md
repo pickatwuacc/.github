@@ -1,4 +1,4 @@
-(/images/1.png)
+![](/images/1.png)
 
 Hi Im pickatwu 
 a Website Developer
